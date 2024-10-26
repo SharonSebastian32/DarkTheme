@@ -26,6 +26,7 @@ function App() {
           <div className="w-full max-w-sm mx-auto flex justify-end mb-4">
             {/* {themeButton} */}
           </div>
+          <h1>Hey Sharon</h1>
 
           <div className="w-full max-w-sm mx-auto">{/* card */}</div>
         </div>
